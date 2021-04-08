@@ -3,11 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nodessl.com/categories/</loc>
+    <loc>https://nodessl.com/</loc>
+    <lastmod>2021-04-08T14:30:06+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nodessl.com/</loc>
+    <loc>https://nodessl.com/posts/</loc>
+    <lastmod>2021-04-08T14:30:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nodessl.com/posts/issues/</loc>
+    <lastmod>2021-04-08T14:30:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nodessl.com/posts/how-to-install/</loc>
+    <lastmod>2021-04-08T14:30:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nodessl.com/categories/</loc>
   </url>
   
   <url>
