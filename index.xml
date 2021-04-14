@@ -30,5 +30,14 @@
   </description>
     </item>
     
+    <item>
+      <title>privacy policy</title>
+      <link>https://nodessl.com/posts/privacy_policy/</link>
+      <pubDate>Sun, 04 Apr 2021 14:30:06 +0800</pubDate>
+      
+      <guid>https://nodessl.com/posts/privacy_policy/</guid>
+      <description>privacy policy We are very delighted that you have shown interest in our enterprise. Data protection is of a particularly high priority for the management of the Nodessl. The use of the Internet pages of the Nodessl is possible without any indication of personal data; however, if a data subject wants to use services via our website, processing of personal data could become necessary. If the processing of personal data is necessary and there is no statutory basis for such processing, we generally obtain consent from the data subject.</description>
+    </item>
+    
   </channel>
 </rss>
